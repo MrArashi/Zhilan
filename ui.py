@@ -81,7 +81,7 @@ class Ui_Dialog(object):
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
         Dialog.setWindowTitle(_translate("Hello, Python in interface? lol", "Hello, Python in interface? lol"))
-        self.label.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:22pt;\">Hello WitaliHir</span></p><p align=\"center\"><span style=\" font-size:22pt;\">Я наконец то починил этого червя</span></p><p align=\"center\"><span style=\" font-size:22pt;\">И да GO LOL ZOEBAL</span></p><p><br/></p></body></html>"))
+        self.label.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:22pt;\">Hello, User!</span></p><p align=\"center\"><span style=\" font-size:22pt;\">Я наконец то починил этого червя</span></p><p align=\"center\"><span style=\" font-size:22pt;\">И да GO LOL ZOEBAL</span></p><p><br/></p></body></html>"))
         self.pushButton_2.setText(_translate("Dialog", "Да го "))
         self.pushButton.setText(_translate("Dialog", "Да заебал я, го"))
 

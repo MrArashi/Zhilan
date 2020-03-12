@@ -13,6 +13,7 @@ Dialog = QtWidgets.QDialog()
 ui = Ui_Dialog()
 ui.setupUi(Dialog)
 Dialog.show()
+app.setWindowIcon(QtGui.QIcon('image\elf.png'))
     
 #Logic
 
